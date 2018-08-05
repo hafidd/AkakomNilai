@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "87714937531",
+    "firebase_url": "https://akakom-nilai.firebaseio.com",
+    "project_id": "akakom-nilai",
+    "storage_bucket": "akakom-nilai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87714937531:android:f9029c5df21f4407",
+        "android_client_info": {
+          "package_name": "com.gmail.hsthafid.akakomnilai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87714937531-a3fs0cu990rk8lvm2a0e6p788dshookp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.hsthafid.akakomnilai",
+            "certificate_hash": "b73cb44388ffc39bde51f98034c9741ba66afeee"
+          }
+        },
+        {
+          "client_id": "87714937531-sp4k185u43pv28emv44t7v38c22n2n37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzL2wNPpGxXm1WRZkTorLL5Go9OGw0v7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87714937531-sp4k185u43pv28emv44t7v38c22n2n37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
