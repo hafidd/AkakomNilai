@@ -1,2 +1,2 @@
 # AkakomNilai
-untuk ngecek nilai dr siakad
+untuk ngecek nilai dr siakad (android client)
